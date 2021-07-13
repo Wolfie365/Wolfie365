@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wolfie365
 - 👀 I’m interested in HTML & CSS and J.S.
 - 🌱 I’m currently learning how to use GitHub.
-- 💞️ I’m looking to collaborate on ...well not really no collabing any time soon.
+- 💞️ I’m looking to collaborate on ...well not really no collabing any time soon. 
 - 📫 How to reach me... isa.a.k.d.360@gmail.com
 - Here, my cousin on GitHub!! --> https://github.com/saadashrafbajpe or just @saadashrafbajpe <--
 
