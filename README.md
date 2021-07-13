@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML & CSS and J.S.
 - 🌱 I’m currently learning how to use GitHub.
 - 💞️ I’m looking to collaborate on ...well not really no collabing any time soon.
-- 📫 How to reach me...Just go to mah profile!!
+- 📫 How to reach me...isa.a.k.d.360@gmail.com
 
 <!---
 Wolfie365/Wolfie365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
